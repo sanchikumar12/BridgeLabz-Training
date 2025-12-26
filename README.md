@@ -35,7 +35,7 @@ BridgeLabz-Training/
 - Practiced adding, committing, and pushing Java files to GitHub.
 
 🔗 *Code Link:*  
-👉 [Day 2 – Basic Java Programs](https://github.com/username/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-requisites)
+👉 [Day 2 – Basic Java Programs](https://github.com/sanchikumar12/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite)
 
 ---
 
@@ -50,7 +50,7 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 
 🔗 *Code Link:*  
-👉 [Day 3 – Programming Elements](https://github.com/username/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+👉 [Day 3 – Programming Elements](https://github.com/sanchikumar12/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
 ---
 
@@ -72,7 +72,7 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 
 🔗 *Code Link:*  
-👉 [Day 4 – Control Flow](https://github.com/username/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
+👉 [Day 4 – Control Flow](https://github.com/sanchikumar12/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
 
 ---
 
@@ -90,7 +90,7 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 
 🔗 *Code Link:*  
-👉 [Day 5 – Arrays](https://github.com/username/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+👉 [Day 5 – Arrays](https://github.com/sanchikumar12/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ---
 
@@ -110,7 +110,7 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 
 🔗 *Code Link:*  
-👉 [Day 6 – Strings & Methods](https://github.com/username/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
+👉 [Day 6 – Strings & Methods](https://github.com/sanchikumar12/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)
 
 ---
 
@@ -127,4 +127,4 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 
 🔗 *Code Link:*  
-👉 [Day 7 – Built-in Functions](https://github.com/username/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+👉 [Day 7 – Built-in Functions](https://github.com/sanchikumar12/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras)
