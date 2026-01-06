@@ -180,3 +180,36 @@ BridgeLabz-Training
 │
 └── README.md
 
+
+Week 2: Object-oriented Programming Fundamental
+📅 Day 9 – Java Class and Object
+
+(Date: 26-Dec-2025)
+
+    Installed Eclipse.
+    Learned the concept of Classes and Objects in Java.
+
+📁 Project Folder Structure
+
+BridgeLabz-Training
+│
+├── java-oops-practice
+│   │
+│   ├── gcr-codebase
+│   │   
+│   ├── scenario-based
+│   │
+│   └── leet-code-codebase
+│
+└── README.md
+
+    Explored the use of this keyword.
+
+    Understood how to define classes and create objects.
+
+    Successfully pushed files to the remote repository.
+
+    🔗 Code Link:
+    👉 Day 9 – Java Class and Object
+
+
