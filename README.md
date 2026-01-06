@@ -284,4 +284,40 @@ Access Modifiers and Inheritance
 👉 Day 13 – Inheritance
 
 
+📅 Day 14 – Encapsulation, Polymorphism, Interface and Abstract Class
+
+(Date: 31-Dec-2025)
+
+Learned the concept of Encapsulation to protect data using access modifiers.
+
+Implemented encapsulation using private variables and public getter/setter methods.
+
+Implemented runtime polymorphism using method overriding.
+
+Differentiated between Interface and Abstract Class with practical examples.
+
+Understood Abstract Classes and abstract methods.
+
+🔗 Code Link:
+👉 Day 14 – Encapsulation, Polymorphism, Interface and Abstract Class
+
+📁 Updated Directory Structure
+BridgeLabz-Training
+│
+├── java-oops-practice
+│   │
+│   ├── gcr-codebase
+│   │   ├── classandobjects
+│   │   ├── inheritance
+│   │   ├── objectmodeling
+│   │   ├── abstraction
+│   │   └── encapsulation_polymorphism
+│   │
+│   ├── scenario-based
+│   │
+│   └── leet-code-codebase
+│
+└── README.md
+
+
 
