@@ -212,4 +212,25 @@ BridgeLabz-Training
     🔗 Code Link:
     👉 Day 9 – Java Class and Object
 
+Day 10 – Java Constructors, Instance vs. Class Variables, Access Modifiers
+
+(Date: 27-Dec-2025) (Focus: Writing Clean & Professional Java Code)
+
+    Learned different types of constructors (default and parameterized).
+
+    Differentiated between instance variables and class (static) variables.
+
+    Practiced using static variables and methods.
+
+    Learned various access modifiers (public, private, protected, default).
+
+    Started writing Java code in a professional and industry-standard manner, following:
+        Proper naming conventions (class names, variables, methods)
+        Clean and readable indentation
+        Meaningful comments for better understanding
+        Structured and consistent code formatting
+
+    Gained hands-on experience in organizing programs for better maintainability and readability.
+
+
 
