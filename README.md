@@ -236,7 +236,9 @@ Structured and consistent code formatting
 
 Gained hands-on experience in organizing programs for better maintainability and readability.
 
-Day 12 – Object Oriented Design Principles
+
+
+🌑 Day 12 – Object Oriented Design Principles
 
 (Date: 30-Dec-2025)
 
@@ -258,6 +260,28 @@ Designed programs following clean code and maintainable architecture.
 👉 Day 12 – Java Object Oriented Design
 
 
+📅 Day 13 – Inheritance
+
+(Date: 31-Dec-2025)
+
+Single Level Inheritance
+
+Multilevel Inheritance
+
+Hierarchical Inheritance
+
+Key Features of Inheritance
+
+Method Overriding
+
+Constructor Inheritance in Java
+
+Polymorphism and Inheritance
+
+Access Modifiers and Inheritance
+
+🔗 Code Link:
+👉 Day 13 – Inheritance
 
 
 
