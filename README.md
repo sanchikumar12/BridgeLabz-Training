@@ -236,6 +236,27 @@ Structured and consistent code formatting
 
 Gained hands-on experience in organizing programs for better maintainability and readability.
 
+Day 12 – Object Oriented Design Principles
+
+(Date: 30-Dec-2025)
+
+Learned the fundamentals of Object-Oriented Design (OOD) principles.
+
+Understood the concept of SOLID principles in object-oriented design.
+
+🧩 Object Oriented Design Principles:
+
+Class Diagram
+
+Object Diagrams
+
+Sequence Diagrams
+
+Designed programs following clean code and maintainable architecture.
+
+🔗 Code Link:
+👉 Day 12 – Java Object Oriented Design
+
 
 
 
