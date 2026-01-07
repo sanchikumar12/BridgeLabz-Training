@@ -1,323 +1,121 @@
-# BridgeLabz-Trainingzz
-### 📅 Week 1: Git, GitHub & Java Programming Fundamentals
+# 🚀 BridgeLabz Training Journey
 
----
+### *A Week-by-Week Learning Log of Git, Java Fundamentals & OOPs*
 
-### 🗓 Day 1 – Git & GitHub Setup  
-*(Date: 16-Dec-2025)*
+## 📚 Week 1: Git, GitHub & Core Java Fundamentals
 
-- Installed and configured Git.
-- Set up GitHub repository.
+### 📅 Day 1 -- Git & GitHub Setup
 
-BridgeLabz-Training/
-│── core-java-practice/
-│ │── gcr-codebase/
-│ │ │── arrays/
-│ │ │── control-flow/
-│ │ │── extras/
-│ │ │── methods/
-│ │ │── programming-elements/
-│ │ │── programming-requisites/
-│ │ │── strings/
-│ │── leet-code-codebase/
-│ │── scenario-based-codebase/
-│── README.md
+**Date:** 15-Dec-2025\
+- Installed and configured Git\
+- Set up GitHub repository\
+- Learned Git commands: init, add, commit, branch, checkout, push\
+- Successfully pushed project files
 
-- Learned basic Git commands (init, clone, add, commit, push).
-- Successfully pushed files to the remote repository.
+### 📅 Day 2 -- Git Practice & Basic Java Programs
 
----
+**Date:** 16-Dec-2025\
+- Practiced full Git workflow\
+- Wrote clean Java code (naming, formatting, comments)\
+- Stored programs in programming-elements
 
+### 📅 Day 3 -- Java Programming Elements
 
-Day 2 – Git Practice & Basic Java Programs
+**Date:** 17-Dec-2025\
+- Learned variables, data types, operators, input/output\
+- Solved multiple practice problems
 
-(Date: 16-Dec-2025) (Focus: Writing Clean & Professional Java Code)
+### 📅 Day 4 -- Control Flow
 
-    Practiced Git workflow to understand commits and version control.
+**Date:** 18-Dec-2025\
+- Worked with conditions & looping constructs\
+- Solved logic and pattern-based problems
 
-    Solved very basic Java programs to understand syntax and structure.
+### 📅 Day 5 -- Java Arrays
 
-    Practiced adding, committing, and pushing Java files to GitHub.
+**Date:** 19-Dec-2025\
+- Learned array basics and manipulation techniques\
+- Solved Level-1 & Level-2 array coding problems
 
-    Started writing Java code in a professional and industry-standard manner, following:
-        Proper naming conventions (class names, variables, methods)
-        Clean and readable indentation
-        Meaningful comments for better understanding
-        Structured and consistent code formatting
+### 📅 Day 6 -- Java Methods
 
-    Gained hands-on experience in organizing programs for better maintainability and readability.
+**Date:** 20-Dec-2025\
+- Learned method creation, parameters, return types\
+- Solved multi-method logical programs
 
-    All practice programs were stored systematically under the programming-elements module.
+### 📅 Day 7 -- Java Strings
 
-🔗 Code Link:
-👉 Day 2 – Basic Java Programs
+**Date:** 22-Dec-2025\
+- Learned string creation, comparison, operations\
+- Solved character-based & logical string problems
 
+### 📅 Day 8 -- Extras & Advanced Practice
 
-### 🗓 Day 3 – Programming Elements in Java  
-*(Date: 18-Dec-2025)*
+**Date:** 23-Dec-2025\
+- Learned advanced string handling\
+- Used Java Date-Time API\
+- Practiced built-in functions
 
-- Studied Java programming elements:
-  - Variables and data types
-  - Operators
-  - User input and output
-- Solved practice problems based on programming elements.
-- Committed and pushed solutions to the repository.
+------------------------------------------------------------------------
 
-🔗 *Code Link:*  
-👉 [Day 3 – Programming Elements](https://github.com/sanchikumar12/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+## 🧠 Week 2: Object-Oriented Programming Fundamentals
 
+### 📅 Day 9 -- Java Class & Object
 
-### 🗓 Day 4 – Control Flow & Logical Constructs  
-*(Date: 19-Dec-2025)*
+**Date:** 26-Dec-2025\
+- Installed Eclipse\
+- Learned classes, objects, this keyword
 
-- Studied logical constructs in Java:
-  - if, if-else
-  - switch statement
-  - ternary operator
-- Practiced iteration statements:
-  - for loop
-  - while loop
-  - do-while loop
-- Used break and continue statements.
-- Solved logical problems such as:
-  - Factorial
-  - Prime number check
-- Committed and pushed solutions to the repository.
+### 📅 Day 10 -- Constructors, Static & Access Modifiers
 
-🔗 *Code Link:*  
-👉 [Day 4 – Control Flow](https://github.com/sanchikumar12/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
+**Date:** 27-Dec-2025\
+- Learned default & parameterized constructors\
+- Understood instance vs class variables\
+- Used static & access modifiers
 
+### 📅 Day 11 -- this, static, final, instanceof
 
-### 🗓 Day 5 – Arrays & Basic Problem Solving  
-*(Date: 20-Dec-2025)*
+**Date:** 29-Dec-2025\
+- Practiced keywords\
+- Used instanceof for object-class relations
 
-- Studied arrays in Java:
-  - Single-dimensional arrays
-  - Multi-dimensional arrays
-- Practiced array traversal and operations.
-- Solved problems related to:
-  - Finding missing elements
-  - Basic array-based logic
-- Strengthened logical thinking using array problems.
-- Committed and pushed solutions to the repository.
-
-🔗 *Code Link:*  
-👉 [Day 5 – Arrays](https://github.com/sanchikumar12/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
-
-### 🗓 Day 6 – Strings & Methods  
-*(Date: 22-Dec-2025)*
+### 📅 Day 12 -- Object Oriented Design Principles
 
-- Studied String concepts:
-  - String creation
-  - String methods
-  - Character processing
-- Implemented programs for string manipulation.
-- Studied Java methods:
-  - Method declaration
-  - Method calling
-  - Parameter passing
-- Practiced reusable logic using methods.
-- Committed and pushed solutions to the repository.
+**Date:** 30-Dec-2025\
+- Learned SOLID principles\
+- Explored class, object & sequence diagrams
 
-🔗 *Code Link:*  
-👉 [Day 6 – Strings & Methods](https://github.com/sanchikumar12/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)
+### 📅 Day 13 -- Inheritance
 
+**Date:** 31-Dec-2025\
+- Studied inheritance types\
+- Method overriding & constructor inheritance
 
+### 📅 Day 14 -- Encapsulation, Polymorphism, Interface & Abstract Class
 
+**Date:** 31-Dec-2025\
+- Implemented encapsulation\
+- Used runtime polymorphism\
+- Understood abstract class vs interface
 
-### 🗓 Day 7 – Built-in Functions & Extra Practice  
-*(Date: 23-Dec-2025)*
+------------------------------------------------------------------------
 
-- Practiced Java built-in functions.
-- Implemented utility programs such as:
-  - Temperature Converter
-- Improved understanding of:
-  - Input handling
-  - Type conversion
-- Organized programs into proper folders.
-- Committed and pushed all changes successfully.
+## 🧩 Week 3: Data Structures
 
-🔗 *Code Link:*  
-👉 [Day 7 – Built-in Functions](https://github.com/sanchikumar12/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras)
+### 📅 Day 15 -- Linked List
 
+**Date:** 02-Jan-2025\
+- Learned Single, Double & Circular Linked List\
+- Started DSA folder structure
 
-📅 Day 8 – Extras & Advanced Practice
+------------------------------------------------------------------------
 
-(Date: 23-Dec-2025) (Extended Java Concepts & Built-in Features)
+## ⭐ Summary
 
-    Worked on additional Java practice programs beyond core concepts.
+You completed:\
+✔ Git & GitHub Basics\
+✔ Java Syntax, Arrays, Methods, Strings\
+✔ OOPs Concepts & SOLID Principles\
+✔ Started DSA Journey
 
-    Created a new extras folder inside gcr-codebase.
-
-    Practiced problems related to:
-        String Handling (advanced string operations)
-        Date & Time (using Java Date-Time API)
-        Built-in Functions (Java utility and helper methods)
-
-    Organized advanced programs into well-structured subfolders under extras for better maintainability.
-
-📁 Updated Folder Structure
-
-BridgeLabz-Training
-│
-├── core-java-practice
-│   │
-│   ├── gcr-codebase
-│   │   ├── programming-elements
-│   │   ├── control-flow
-│   │   ├── arrays
-│   │   ├── methods
-│   │   ├── strings
-│   │   ├── program-prerequisites
-│   │   └── extras
-│   │       ├── string-handling
-│   │       ├── dateAndTime
-│   │       └── Built-in-functions
-│   │
-│   ├── scenario-based
-│   │
-│   └── leet-code-codebase
-│
-└── README.md
-
-
-Week 2: Object-oriented Programming Fundamental
-📅 Day 9 – Java Class and Object
-
-(Date: 26-Dec-2025)
-
-    Installed Eclipse.
-    Learned the concept of Classes and Objects in Java.
-
-📁 Project Folder Structure
-
-BridgeLabz-Training
-│
-├── java-oops-practice
-│   │
-│   ├── gcr-codebase
-│   │   
-│   ├── scenario-based
-│   │
-│   └── leet-code-codebase
-│
-└── README.md
-
-    Explored the use of this keyword.
-
-    Understood how to define classes and create objects.
-
-    Successfully pushed files to the remote repository.
-
-    🔗 Code Link:
-    👉 Day 9 – Java Class and Object
-
-🌑 Day 10 – Java Constructors, Instance vs. Class Variables, Access Modifiers
-(Date: 27-Dec-2025)
-(Focus: Writing Clean & Professional Java Code)
-
-Learned different types of constructors (default and parameterized).
-
-Differentiated between instance variables and class (static) variables.
-
-Practiced using static variables and methods.
-
-Learned various access modifiers (public, private, protected, default).
-
-Started writing Java code in a professional and industry-standard manner, focusing on:
-
-Proper naming conventions (class names, variables, methods)
-
-Clean, readable indentation
-
-Meaningful comments for better understanding
-
-Structured and consistent code formatting
-
-Gained hands-on experience in organizing programs for better maintainability and readability.
-
-
-
-🌑 Day 12 – Object Oriented Design Principles
-
-(Date: 30-Dec-2025)
-
-Learned the fundamentals of Object-Oriented Design (OOD) principles.
-
-Understood the concept of SOLID principles in object-oriented design.
-
-🧩 Object Oriented Design Principles:
-
-Class Diagram
-
-Object Diagrams
-
-Sequence Diagrams
-
-Designed programs following clean code and maintainable architecture.
-
-🔗 Code Link:
-👉 Day 12 – Java Object Oriented Design
-
-
-📅 Day 13 – Inheritance
-
-(Date: 31-Dec-2025)
-
-Single Level Inheritance
-
-Multilevel Inheritance
-
-Hierarchical Inheritance
-
-Key Features of Inheritance
-
-Method Overriding
-
-Constructor Inheritance in Java
-
-Polymorphism and Inheritance
-
-Access Modifiers and Inheritance
-
-🔗 Code Link:
-👉 Day 13 – Inheritance
-
-
-📅 Day 14 – Encapsulation, Polymorphism, Interface and Abstract Class
-
-(Date: 31-Dec-2025)
-
-Learned the concept of Encapsulation to protect data using access modifiers.
-
-Implemented encapsulation using private variables and public getter/setter methods.
-
-Implemented runtime polymorphism using method overriding.
-
-Differentiated between Interface and Abstract Class with practical examples.
-
-Understood Abstract Classes and abstract methods.
-
-🔗 Code Link:
-👉 Day 14 – Encapsulation, Polymorphism, Interface and Abstract Class
-
-📁 Updated Directory Structure
-BridgeLabz-Training
-│
-├── java-oops-practice
-│   │
-│   ├── gcr-codebase
-│   │   ├── classandobjects
-│   │   ├── inheritance
-│   │   ├── objectmodeling
-│   │   ├── abstraction
-│   │   └── encapsulation_polymorphism
-│   │
-│   ├── scenario-based
-│   │
-│   └── leet-code-codebase
-│
-└── README.md
-
-
-
+Your repository is now well-structured and professional 🚀
