@@ -12,7 +12,7 @@
 - Created and set up a GitHub repository for training work.
 - Understood the basic Git workflow and version control concepts.
 - Created the initial project folder structure as follows:
-~
+~~~
 BridgeLabz-Training/
 │── core-java-practice/
 │ │── gcr-codebase/
@@ -24,9 +24,8 @@ BridgeLabz-Training/
 │ │ │── program-prerequisites/
 │ │ │── strings/
 │ │── leet-code-codebase/
-│ │── scenario-based-codebase/
 │── README.md
-~
+~~~
 - Learned basic Git commands (init, clone, add, commit, push).
 - Successfully pushed files to the remote repository.
 
@@ -49,7 +48,7 @@ BridgeLabz-Training/
 
 ## 🔗 Code Link
 
-👉 [Day 2 – Program Prerequisite](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite)   
+👉 [Day 2 – Program Prerequisite](https://github.com/sanchikumar12/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite)   
 
 
 # 📅 Day 3 – Programming Elements in Java
@@ -71,7 +70,7 @@ BridgeLabz-Training/
 
 ## 🔗 Code Link
 
-👉 [Day 3 – Programming Elements](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+👉 [Day 3 – Programming Elements](https://github.com/sanchikumar12/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
 
 
@@ -101,7 +100,7 @@ BridgeLabz-Training/
 
 ## 🔗 Code Link
 
-👉 [Day 4 – Control Flow](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
+👉 [Day 4 – Control Flow](https://github.com/sanchikumar12/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
 
 
 
@@ -127,7 +126,7 @@ BridgeLabz-Training/
 
 
 ## 🔗 Code Link
-👉 [Day 5 – Arrays](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+👉 [Day 5 – Arrays](https://github.com/sanchikumar12/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 
 
@@ -157,7 +156,7 @@ BridgeLabz-Training/
 
 ## 🔗 Code Link
 
-👉 [Day 6 – Strings & Methods](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/String)
+👉 [Day 6 – Strings & Methods](https://github.com/sanchikumar12/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)
 
 
 
@@ -185,7 +184,7 @@ BridgeLabz-Training/
 
 ## 🔗 Code Link
 
-👉 [Day 7 – Built-in Functions](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras)
+👉 [Day 7 – Built-in Functions](https://github.com/sanchikumar12/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras)
 
 
 
@@ -208,7 +207,7 @@ BridgeLabz-Training/
 
 ## 🔗 Code Link
 
-👉 [Day 8 – Scenario-based Problem](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/core-java-practice/scenario-based)
+👉 [Day 8 – Scenario-based Problem](https://github.com/sanchikumar12/BridgeLabz-Training/tree/core-java-practice/scenario-based)
 
 
 # 📅 Day 9 – Classes, Objects & Introduction to OOPs
@@ -228,7 +227,7 @@ BridgeLabz-Training/
 
 ## 🔗 Code Link
 
-👉 [Day 9 – Classes and Objects Practice](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/classandobjects)
+👉 [Day 9 – Classes and Objects Practice](https://github.com/sanchikumar12/BridgeLabz-Training/tree/java-oops-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linkedlist/singlylinkedlist)
 
 
 # 📅 Day 10 – Constructors & Access Modifiers
@@ -278,7 +277,7 @@ BridgeLabz-Training/
 
 ## 🔗 Code Link
 
-👉 [Day 11 – Static, Final & Type Checking](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/javakeyword)
+👉 [Day 11 – Static, Final & Type Checking](https://github.com/sanchikumar12/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/java/keyword)
 
 
 
@@ -305,7 +304,7 @@ BridgeLabz-Training/
 
 ## 🔗 Code Link
 
-👉 [Day 13 – Inheritance](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/inheritance)
+👉 [Day 13 – Inheritance](https://github.com/sanchikumar12/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/java/keyword)
 
 
 
@@ -324,7 +323,7 @@ BridgeLabz-Training/
 
 ## 🔗 Code Link
 
-👉 [Day 14 – Encapsulation](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/encapsulationandpolymorphism)
+👉 [Day 14 – Encapsulation](https://github.com/sanchikumar12/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulationandpolymorphism)
 
 
 
@@ -344,7 +343,7 @@ BridgeLabz-Training/
 - Solved practice problems based on programming elements  
 - Committed and pushed solutions to the repository  
 ## 🔗 Code Link:
-👉 [Day 15 – LinkedList](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DsaPractice/src/com/linkedlist) 
+👉 [Day 15 – LinkedList](https://github.com/sanchikumar12/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linkedlist) 
 
 
 # 🗓️ Day 16 – Stack, Queue, HashMap and Hashing Function  
@@ -362,7 +361,7 @@ BridgeLabz-Training/
 
 ---
 ## 🔗 Code Link
-👉 [Day 16 – Stack and Queue](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DsaPractice/src/com/stackandqueue)
+👉 [Day 16 – Stack and Queue](https://github.com/sanchikumar12/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/stackqueue)
 
 ---
 # 🗓️ Day 17 – Sorting Algorithms  
@@ -384,4 +383,4 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 
 ## 🔗 Code Link
-👉 [Day 17 – Sorting Algorithms](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DsaPractice/src/com/sorting)
+👉 [Day 17 – Sorting Algorithms](https://github.com/sanchikumar12/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sortingalgorithms)
