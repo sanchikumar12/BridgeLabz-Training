@@ -386,72 +386,70 @@ BridgeLabz-Training/
 👉 [Day 17 – Sorting Algorithms](https://github.com/sanchikumar12/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sortingalgorithms)
 
 
-
-📅 Day 18 – Linear Search, Binary Search & Java I/O Utilities
-
+📅 DAY 18
+🔎 Linear Search, Binary Search & Java I/O Utilities
 🗓 Date: 06-Jan-2026
-🎯 Focus: Learning concepts and implementing them in Java
+🎯 Focus: Learning concepts & implementation
+🔍 SEARCHING ALGORITHMS
+➤ Linear Search
 
-🔍 Searching Algorithms
-1️⃣ Linear Search
+Checks elements one by one
 
-Searches elements one by one
+Works on sorted & unsorted data
 
-Works on both sorted and unsorted data
+⏱ Time Complexity: O(n)
 
-Time Complexity: O(n)
-
-2️⃣ Binary Search
+➤ Binary Search
 
 Works only on sorted data
 
-Repeatedly divides the search space into half
+Divides the search space into halves
 
-Time Complexity: O(log n)
+⏱ Time Complexity: O(log n)
 
-🧵 String Handling Classes
-🛠 StringBuilder
-
-Mutable sequence of characters
-
-Faster performance
-
-Not thread-safe
-
-Preferred in single-threaded environments
-
-🛡 StringBuffer
+🧵 STRING HANDLING CLASSES
+➤ StringBuilder
 
 Mutable sequence of characters
 
-Thread-safe
+⚡ Faster performance
 
-Slower due to synchronization
+❌ Not thread-safe
 
-Used in multi-threaded environments
+✅ Best for single-threaded applications
 
-📖 Java I/O Classes
-📚 BufferedReader
+➤ StringBuffer
 
-Used for efficient text reading
+Mutable sequence of characters
+
+🔒 Thread-safe
+
+🐢 Slightly slower due to synchronization
+
+✅ Used in multi-threaded applications
+
+📖 JAVA I/O CLASSES
+➤ BufferedReader
+
+Efficient text reading
 
 Wraps another Reader
 
-Reads data line-by-line
+Reads input line-by-line
 
-📂 FileReader
+➤ FileReader
 
 Used to read data from files
 
-Reads characters from a file stream
+Reads characters from a file source
 
-🔄 InputStreamReader
+➤ InputStreamReader
 
-Converts byte streams to character streams
+Converts byte streams → character streams
 
 Commonly used with System.in
 
-🔗 Code Links – Day 18
+🔗 CODE LINKS – DAY 18
 
 👉 Day 18 – InputStreamReader
 
@@ -465,45 +463,49 @@ Commonly used with System.in
 
 👉 Day 18 – Binary Search
 
-📅 Day 19 – Algorithm Runtime Analysis & Big-O Notation
-
+📅 DAY 19
+📈 Algorithm Runtime Analysis & Big-O Notation
 🗓 Date: 07-Jan-2026
-🎯 Focus: Understanding performance and optimization
+🎯 Focus: Understanding performance & optimization
+⏱ RUNTIME ANALYSIS
 
-⏱ Runtime Analysis
+Studied how algorithm execution time grows with input size
 
-Studied how an algorithm’s execution time grows with input size
+Helps in comparing algorithms and choosing the best one
 
-Helps compare and choose efficient algorithms
+📊 BIG-O NOTATION
 
-📈 Big-O Notation
+Represents the upper bound of algorithm complexity
 
-Represents the upper bound of time or space complexity
+Describes performance growth relative to input size
 
-Describes how performance scales with input size
+📂 TYPES OF CASES
 
-📊 Types of Cases
+🔴 Worst Case: Maximum execution time
 
-Worst Case: Maximum time required
+🟡 Average Case: Expected performance
 
-Average Case: Expected performance
+🟢 Best Case: Minimum execution time
 
-Best Case: Minimum time required
+⚙️ OPTIMIZING JAVA CODE
 
-⚙️ Performance Optimization
+Use efficient algorithms
 
-Choosing efficient algorithms & data structures
+Choose correct data structures
 
-Reduces time and space complexity
+Reduces time & space complexity
 
-Essential for writing scalable Java programs
+Improves scalability and performance
 
-🧠 Complexity Analysis
+🧠 COMPLEXITY ANALYSIS
+➤ Time Complexity
 
-Time Complexity: Number of operations vs input size
+Measures number of operations vs input size
 
-Space Complexity: Extra memory used during execution
+➤ Space Complexity
 
-🔗 Code Link – Day 19
+Measures extra memory required during execution
+
+🔗 CODE LINK – DAY 19
 
 👉 Day 19 – Runtime Analysis
