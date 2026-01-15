@@ -384,3 +384,126 @@ BridgeLabz-Training/
 
 ## 🔗 Code Link
 👉 [Day 17 – Sorting Algorithms](https://github.com/sanchikumar12/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sortingalgorithms)
+
+
+
+📅 Day 18 – Linear Search, Binary Search & Java I/O Utilities
+
+🗓 Date: 06-Jan-2026
+🎯 Focus: Learning concepts and implementing them in Java
+
+🔍 Searching Algorithms
+1️⃣ Linear Search
+
+Searches elements one by one
+
+Works on both sorted and unsorted data
+
+Time Complexity: O(n)
+
+2️⃣ Binary Search
+
+Works only on sorted data
+
+Repeatedly divides the search space into half
+
+Time Complexity: O(log n)
+
+🧵 String Handling Classes
+🛠 StringBuilder
+
+Mutable sequence of characters
+
+Faster performance
+
+Not thread-safe
+
+Preferred in single-threaded environments
+
+🛡 StringBuffer
+
+Mutable sequence of characters
+
+Thread-safe
+
+Slower due to synchronization
+
+Used in multi-threaded environments
+
+📖 Java I/O Classes
+📚 BufferedReader
+
+Used for efficient text reading
+
+Wraps another Reader
+
+Reads data line-by-line
+
+📂 FileReader
+
+Used to read data from files
+
+Reads characters from a file stream
+
+🔄 InputStreamReader
+
+Converts byte streams to character streams
+
+Commonly used with System.in
+
+🔗 Code Links – Day 18
+
+👉 Day 18 – InputStreamReader
+
+👉 Day 18 – FileReader
+
+👉 Day 18 – StringBuffer
+
+👉 Day 18 – StringBuilder
+
+👉 Day 18 – Linear Search
+
+👉 Day 18 – Binary Search
+
+📅 Day 19 – Algorithm Runtime Analysis & Big-O Notation
+
+🗓 Date: 07-Jan-2026
+🎯 Focus: Understanding performance and optimization
+
+⏱ Runtime Analysis
+
+Studied how an algorithm’s execution time grows with input size
+
+Helps compare and choose efficient algorithms
+
+📈 Big-O Notation
+
+Represents the upper bound of time or space complexity
+
+Describes how performance scales with input size
+
+📊 Types of Cases
+
+Worst Case: Maximum time required
+
+Average Case: Expected performance
+
+Best Case: Minimum time required
+
+⚙️ Performance Optimization
+
+Choosing efficient algorithms & data structures
+
+Reduces time and space complexity
+
+Essential for writing scalable Java programs
+
+🧠 Complexity Analysis
+
+Time Complexity: Number of operations vs input size
+
+Space Complexity: Extra memory used during execution
+
+🔗 Code Link – Day 19
+
+👉 Day 19 – Runtime Analysis
