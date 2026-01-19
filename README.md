@@ -385,7 +385,7 @@ BridgeLabz-Training/
 ## 🔗 Code Link
 👉 [Day 17 – Sorting Algorithms](https://github.com/sanchikumar12/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sortingalgorithms)
 
-
+##
 📅 DAY 18
 🔎 Linear Search, Binary Search & Java I/O Utilities
 🗓 Date: 06-Jan-2026
@@ -509,3 +509,222 @@ Measures extra memory required during execution
 🔗 CODE LINK – DAY 19
 
 👉 Day 19 – Runtime Analysis
+##
+
+##
+# **Day 19 – Data Structures: Searching, StringBuffer, StringBuilder, File Handling**
+
+**Date:** 06-01-2026
+**Focus:** String Handling, Searching & File Handling
+
+### **What I Learned**
+
+* Learned mutable string handling using **StringBuffer** and **StringBuilder**
+* Understood performance differences and thread-safety concepts
+* Studied searching techniques:
+
+  * Linear Search
+  * Binary Search
+* Practiced file handling using **BufferedReader**
+* Focused on writing clean, optimized Java code following core Java best practices
+
+### **Code Repository**
+
+* **Scenario-Based OOPS Practice**
+  👉 Scenario Based
+* **StringBuffer, StringBuilder & Searching**
+
+---
+
+# **Day 20 – Data Structures: Time & Space Complexity**
+
+**Date:** 07-01-2026
+**Focus:** Analyzing Algorithm Efficiency
+
+### **What I Learned**
+
+* Studied **Time and Space Complexity**
+* Explored common **Big-O notations**
+* Compared algorithms based on efficiency and scalability
+
+### **Practice**
+
+* Scenario-Based OOPS Practice
+  👉 Scenario Based: **ParkEase**
+
+### **Code Link**
+
+👉 Day 19 – Data Structures: Time & Space Complexity
+
+---
+
+# **Day 21 – Real-World Scenario-Based OOP Problems**
+
+**Date:** 08-01-2026
+
+### **Topics Covered**
+
+* Implemented real-world OOP scenarios
+* Applied:
+
+  * Encapsulation
+  * Inheritance
+  * Polymorphism
+* Built scalable and modular designs
+* Improved system design & interview readiness
+
+### **Code**
+
+👉 Scenario-Based OOP Implementations
+
+---
+
+# **Day 22 – Scenario-Based DSA Problems**
+
+**Date:** 10-01-2026
+
+### **Topics Covered**
+
+* Applied DSA concepts to real-world scenarios
+* Focused on efficient data structure selection
+
+### **Implementations**
+
+* **BookShelf** – HashMap + LinkedList
+* **BrowserBuddy** – Doubly Linked List + Stack
+* **AmbulanceRoute** – Circular Linked List
+
+### **Code**
+
+👉 Scenario-Based DSA Implementations
+
+---
+
+# **Day 23 – Scenario-Based DSA & OOP Problems**
+
+**Date:** 12-01-2026
+
+### **Topics Covered**
+
+* Applied DSA to real-world scenarios
+* Applied OOP concepts to real-world problems
+
+### **Implementations**
+
+* **CallCenter** – Queue + HashMap
+* **TrainCompanion** – Doubly Linked List
+* **TextEditor** – Stack
+* **TrafficManager** – Circular Linked List + Queue
+* **HomeNest** – Smart Home Device Manager
+* **BudgetWise** – Personal Finance Tracker
+* **GameBox** – Mobile Game Distribution Platform
+
+### **Code**
+
+👉 Scenario-Based DSA Implementations
+👉 Scenario-Based OOPs Implementations
+
+---
+
+# **Day 24 – Scenario-Based DSA & OOP Problems**
+
+**Date:** 13-01-2026
+
+### **Topics Covered**
+
+* Applied DSA to real-world scenarios
+* Applied OOP concepts to real-world scenarios
+
+### **Implementations**
+
+* **SmartCheckout** – Supermarket Billing Queue (Queue + HashMap)
+* **ParcelTracker** – Delivery Chain Management (Singly Linked List)
+* **ExamProctor** – Online Exam Review System (Stack + HashMap + Functions)
+* **Bird Sanctuary** – Java OOP Scenario
+* **PayXpress** – Utility Bill Payment System
+
+### **Code**
+
+👉 Scenario-Based DSA Implementations
+👉 Scenario-Based OOPs Implementations
+
+---
+
+# **Week 4 – Java Collections Framework**
+
+# **Day 25 – Scenario-Based DSA Problems & Generics**
+
+**Date:** 15-01-2026
+
+### **Topics Covered**
+
+* Applied DSA to real-world scenarios
+* Java **Generics**:
+
+  * Type Parameters
+  * Generic Classes
+  * Generic Methods
+  * Bounded Type Parameters
+  * Wildcards
+
+### **Implementations**
+
+* **HospitalQueue** – Patient Sorting by Criticality
+* **SmartShelf** – Real-Time Book Arrangement
+* **ZipZipMart** – Daily Sales Summary Report
+* **EventManager** – Ticket Price Optimizer
+* **ExamCell** – Student Rank Generator
+
+### **Code**
+
+👉 Scenario-Based DSA Implementations
+👉 Java Collection Generics
+
+---
+
+# **Day 26 – List, Set, Queue & Map Interfaces**
+
+**Date:** 16-01-2026
+
+### **Topics Covered**
+
+* Overview of Java Collections Framework
+* **List Interface** and implementing classes
+* **Set Interface** and implementing classes
+* **Queue & Deque Interfaces**
+* **Map Interface** and its implementations
+
+### **Implementations**
+
+* **RoboWarehouse** – Shelf Loading Robot
+* **CinemaHouse** – Movie Time Sorting
+* **CropMonitor** – Sensor Data Ordering
+
+### **Code**
+
+👉 Scenario-Based DSA Implementations
+👉 Java Collection List Interface
+👉 Java Collection Map Interface
+👉 Java Collection Queue Interface
+👉 Java Collection Set Interface
+
+---
+
+# **Day 27 – Real-World Scenario-Based Sorting Problems**
+
+**Date:** 17-01-2026
+
+### **Implementations**
+
+* **FleetManager** – Vehicle Maintenance Scheduler
+* **ArtExpo** – Sort Artists by Registration Time
+* **SmartLibrary** – Auto-Sort Borrowed Books
+* **IceCreamRush** – Sorting Flavors by Popularity
+* **Bag-n-Ball Organizer**
+* **GeoMeasure**
+
+### **Code**
+
+👉 Scenario-Based DSA Implementations
+👉 Scenario-Based OOPs Implementations
+
