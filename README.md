@@ -728,52 +728,41 @@ Measures extra memory required during execution
 👉 Scenario-Based DSA Implementations
 👉 Scenario-Based OOPs Implementations
 
-📅 Day 28 – Real-World Scenario-Based Sorting Problems
+## Sorting Algorithms – Real-World Scenario Based Problems
 
-Date: 19-Jan-2026
+This repository contains day-wise real-world scenario-based problems involving sorting algorithms.  
+The objective is to understand practical applications of sorting using **DSA** and **OOP** concepts.
 
-🛠 Implementations
+## Day 28 – Real-World Scenario-Based Problems Involving Sorting Algorithms
+**Date:** 19-Jan-2026
 
-Address Book System – Sorting contacts by name, phone number, or city
+**Implementations**
+- **Address Book System**
+- **EduResults – Rank Sheet Generator**
+- **FlashDealz – Product Sorting by Discount**
+- **FitnessTracker – Daily Step Count Ranking**
 
-EduResults – Rank Sheet Generator – Sorting students based on marks and ranks
+**Code**
+- **Scenario-Based DSA Implementations**
+- **Scenario-Based OOPs Implementations**
 
-FlashDealz – Product Sorting by Discount – Sorting products by highest discount
+## Day 29 – Real-World Scenario-Based Problems Involving Sorting Algorithms
+**Date:** 20-Jan-2026
 
-FitnessTracker – Daily Step Count Ranking – Ranking users by step count
+**Implementations**
+- **MovieTime – Theater Show Listings**
+- **FoodFest – Sorting Stalls by Customer Footfall**
+- **GamerZone – High Score Ranking System**
 
-🔗 Code
+**Code**
+- **Scenario-Based DSA Implementations**
 
-👉 Scenario-Based DSA Implementations
-👉 Scenario-Based OOPs Implementations
+## Day 30 – Real-World Scenario-Based Problems Involving Sorting Algorithms
+**Date:** 21-Jan-2026
 
-📅 Day 29 – Real-World Scenario-Based Sorting Problems
+**Implementations**
+- **TailorShop – Sorting Orders by Delivery Deadline**
+- **MedWarehouse – Sorting Medicines by Expiry**
 
-Date: 20-Jan-2026
-
-🛠 Implementations
-
-MovieTime – Theater Show Listings – Sorting shows by timing and popularity
-
-FoodFest – Sorting Stalls by Customer Footfall – Ranking stalls by visitors
-
-GamerZone – High Score Ranking System – Sorting players by game scores
-
-🔗 Code
-
-👉 Scenario-Based DSA Implementations
-
-📅 Day 30 – Real-World Scenario-Based Sorting Problems
-
-Date: 21-Jan-2026
-
-🛠 Implementations
-
-TailorShop – Sorting Orders by Delivery Deadline – Prioritizing urgent orders
-
-MedWarehouse – Sorting Medicines by Expiry Date – Ensuring safe inventory management
-
-🔗 Code
-
-👉 Scenario-Based DSA Implementations
-
+**Code**
+- **Scenario-Based DSA Implementations**
