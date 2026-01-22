@@ -728,3 +728,52 @@ Measures extra memory required during execution
 👉 Scenario-Based DSA Implementations
 👉 Scenario-Based OOPs Implementations
 
+📅 Day 28 – Real-World Scenario-Based Sorting Problems
+
+Date: 19-Jan-2026
+
+🛠 Implementations
+
+Address Book System – Sorting contacts by name, phone number, or city
+
+EduResults – Rank Sheet Generator – Sorting students based on marks and ranks
+
+FlashDealz – Product Sorting by Discount – Sorting products by highest discount
+
+FitnessTracker – Daily Step Count Ranking – Ranking users by step count
+
+🔗 Code
+
+👉 Scenario-Based DSA Implementations
+👉 Scenario-Based OOPs Implementations
+
+📅 Day 29 – Real-World Scenario-Based Sorting Problems
+
+Date: 20-Jan-2026
+
+🛠 Implementations
+
+MovieTime – Theater Show Listings – Sorting shows by timing and popularity
+
+FoodFest – Sorting Stalls by Customer Footfall – Ranking stalls by visitors
+
+GamerZone – High Score Ranking System – Sorting players by game scores
+
+🔗 Code
+
+👉 Scenario-Based DSA Implementations
+
+📅 Day 30 – Real-World Scenario-Based Sorting Problems
+
+Date: 21-Jan-2026
+
+🛠 Implementations
+
+TailorShop – Sorting Orders by Delivery Deadline – Prioritizing urgent orders
+
+MedWarehouse – Sorting Medicines by Expiry Date – Ensuring safe inventory management
+
+🔗 Code
+
+👉 Scenario-Based DSA Implementations
+
