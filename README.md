@@ -767,48 +767,27 @@ The objective is to understand practical applications of sorting using **DSA** a
 **Code**
 - **Scenario-Based DSA Implementations**
 
-- ## Day 31 – Java File Handling & I/O Streams
-## Date: 19-Jan-2026
-##
-## - Studied Java file handling using byte streams and character streams
-## - Learned basic streams vs buffered streams and their performance benefits
-## - Practiced console input and file writing using Reader and Writer classes
-##
-## Code Link: Day 31 – Java File Handling & Streams Practice
-##
-## --------------------------------------------------
-##
-## Day 32 – Java Exception Handling
-## Date: 20-Jan-2026
-##
-## - Studied exception handling to manage runtime errors safely
-## - Learned try, catch, finally, throw, and throws
-## - Explored checked vs unchecked exceptions
-## - Practiced creating and using custom exceptions
-## - Focused on robust and maintainable code
-##
-## Code Link: Day 32 – Exception Handling Practice
-##
-## --------------------------------------------------
-##
-## Day 33 – Java Fundamentals: Regex & JUnit
-## Date: 21-Jan-2026
-##
-## - Studied regex basics, metacharacters, and quantifiers
-## - Implemented email, password, and phone number validation
-## - Worked with Pattern and Matcher classes
-##
-## Code Link: Day 5 – JUnit | Day 5 – Regex Practice
-##
-## --------------------------------------------------
-##
-## Day 34 – Reflection & Annotations
-## Date: 22-Jan-2026
-##
-## - Studied Java Reflection API
-## - Learned dynamic method access and metadata analysis
-## - Explored built-in and custom annotations
-## - Used reflection to process annotations at runtime
-##
-## Code Link: Day 34 – Reflection & Annotations Practice
+## Day 31 – Java File Handling & I/O Streams
+// Date: 19-Jan-2026
+// Studied Java file handling using byte streams and character streams
+// Learned basic streams vs buffered streams and their performance benefits
+// Practiced console input and file writing using Reader and Writer classes
+// Code Link: Day 31 – Java File Handling & Streams Practice
 
+## Day 32 – Java Exception Handling
+// Date: 20-Jan-2026
+// Studied exception handling to manage runtime errors safely
+// Learned try, catch, finally, throw, and throws
+// Explored checked vs unchecked exceptions
+// Practiced creating and using custom exceptions
+// Focused on robust and maintainable code
+// Code Link: Day 32 – Exception Handling Practice
+
+## Day 33 – Java Fundamentals: Regex & JUnit
+// Date: 21-Jan-2026
+// Studied regex basics, metacharacters, and quantifiers
+// Implemented email, password, and phone number validation
+// Worked with Pattern and Matcher classes
+// Code Link: Day 5 – JUnit | Day 5 – Regex Practice
+
+## Day 34 – Reflection &
