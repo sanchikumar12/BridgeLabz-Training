@@ -1,0 +1,5 @@
+package com.studentlibrarymanagementsystem;
+
+public interface Observer {
+	void update(String message);
+}
