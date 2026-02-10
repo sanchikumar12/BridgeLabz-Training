@@ -791,3 +791,174 @@ The objective is to understand practical applications of sorting using **DSA** a
 // Code Link: Day 5 – JUnit | Day 5 – Regex Practice
 
 ## Day 34 – Reflection &
+
+# BridgeLabz-Training
+
+# Week 5 – Java IOStreams
+
+## 📅 Day 1 – Java File Handling: CSV Data Processing
+*Date:* 23-01-2026  
+*Focus:* CSV Handling from Basics to Advanced Scenarios
+
+---
+
+## 🔹 Activities Performed
+
+- Read, wrote, and counted records in CSV files.
+- Filtered, searched, updated, and sorted CSV data.
+- Validated data using regex and detected duplicate records.
+- Converted CSV records into Java objects.
+- Built **ResumeAnalyzer** – extracted candidate data using regex and maps.
+- Developed **TravelLog** – trip storage and analysis using serialization.
+- Implemented **FeedbackGuru** – feedback processing using generics.
+- Created **CodeRepoCleaner** and **ExamScanner** for file scanning, validation, and ranking.
+
+🔗 Code Link: Scenario-Based Questions  
+🔗 Code: CSV Data Handling Practice
+
+---
+
+## 📅 Day 2 – Java Data Handling: JSON Processing
+*Date:* 24-01-2026  
+*Focus:* Working with JSON Data in Java Applications
+
+---
+
+## 🔹 Activities Performed
+
+- Studied JSON as a lightweight data exchange format.
+- Practiced reading, parsing, and writing JSON data in Java.
+- Worked with JSON objects and arrays for structured data handling.
+- Applied Collections, I/O, Regex, and Generics in real-world scenarios.
+- Built applications: **MedInventory**, **ChatLogParser**, **SongVault**, and **ExamResultUploader**.
+
+🔗 Code Link: Scenario-Based Questions  
+🔗 Code: JSON Handling Practice
+
+---
+
+## 📅 Day 3 – Java I/O & Metadata: Scenario-Based Practice
+*Date:* 27-01-2026  
+*Focus:* Annotations, Reflection, CSV & JSON Handling
+
+---
+
+## 🔹 Activities Performed
+
+- Worked with **Annotations and Reflection** for metadata-driven applications.
+- Implemented **HealthCheckPro** to scan API methods using custom annotations.
+- Developed **MarkMate** to read CSV data and generate JSON report cards.
+- Built **EventTracker** to detect annotated methods and produce audit logs.
+- Focused on exception handling and clean, robust data processing.
+
+🔗 Code Link: IO Scenario-Based Practice
+
+---
+
+# Week 6 – Java 8 Features
+
+## 📅 Day 1 – Lambda, Functional & Marker Interfaces
+*Date:* 27-01-2026  
+*Focus:* Functional Programming Enhancements
+
+---
+
+## 🔹 Activities Performed
+
+- Used Lambda Expressions for concise functional code.
+- Worked with Functional Interfaces such as Runnable, Callable, and custom interfaces.
+- Learned Method References (static, instance, constructor).
+- Studied Marker Interfaces for metadata without methods.
+- Improved code readability and maintainability.
+
+🔗 Code Link: Java 8 Practice
+
+---
+
+## 📅 Day 2 – Java 8 Streams API
+*Date:* 28-01-2026  
+*Focus:* Streams, forEach & Collectors
+
+---
+
+## 🔹 Activities Performed
+
+- Learned Streams API for functional data processing.
+- Implemented stream pipeline (source → intermediate → terminal).
+- Used operations like filter(), map(), sorted(), and distinct().
+- Collected results using Collectors (toList, toSet, groupingBy, counting).
+- Applied concepts in **Smart City Transport System** for schedule filtering and trip analysis.
+
+🔗 Code Link: Java 8 Streams Practice
+
+---
+
+# Week 7 – Java Design Principles & Multithreading
+
+## 📅 Day 1 – SOLID Principles
+*Date:* 31-01-2026
+
+---
+
+## 🔹 Topics Covered
+
+- Single Responsibility Principle (SRP)
+- Open/Closed Principle (OCP)
+- Liskov Substitution Principle (LSP)
+- Interface Segregation Principle (ISP)
+- Dependency Inversion Principle (DIP)
+
+👉 SOLID Principles Practice
+
+---
+
+## 📅 Day 2 – Java Multithreading
+*Date:* 04-02-2026
+
+---
+
+## 🔹 Activities Performed
+
+- Learned thread lifecycle and multithreading basics.
+- Created threads using Thread, Runnable, and Callable.
+- Implemented synchronization and thread safety.
+- Practiced inter-thread communication using wait() and notify().
+
+👉 Java Multithreading Practice
+
+---
+
+# Week 8 – MySQL & JDBC
+
+## 📅 Day 1 – Introduction to MySQL
+*Date:* 06-02-2026  
+*Focus:* Database Foundations and SQL
+
+---
+
+## 🔹 Activities Performed
+
+- Understood databases, tables, records, and relationships.
+- Practiced SQL operations: CREATE, INSERT, SELECT, UPDATE, DELETE.
+- Learned constraints: PRIMARY KEY, FOREIGN KEY, UNIQUE, NOT NULL.
+- Studied transactions and their importance for data consistency.
+
+👉 Day 1 – MySQL Practice
+
+---
+
+## 📅 Day 2 – Database & JDBC: Scenario Practice
+*Date:* 07-02-2026  
+*Focus:* Hospital Management System
+
+---
+
+## 🔹 Activities Performed
+
+- Designed a Hospital Management System using SQL and JDBC.
+- Implemented CRUD operations for patients, doctors, appointments, and billing.
+- Wrote complex queries using JOINs, subqueries, and aggregate functions.
+- Generated reports like visit history, schedules, and revenue summaries.
+
+👉 Day 2 – JDBC & Database Scenario-Based Practice
+
