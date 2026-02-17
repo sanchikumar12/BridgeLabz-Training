@@ -1,0 +1,42 @@
+/*
+Module: Billing and Payments
+Purpose:
+• Generate bills for patient visits
+• Track payment status and amounts
+*/
+
+USE hospital_management;
+
+--------------------------------------------------
+-- Billing Table
+--------------------------------------------------
+
+CREATE TABLE billing_details (
+    bill_id INT PRIMARY KEY,
+    visit_id INT,
+    total_amount INT,
+    payment_mode VARCHAR(20),
+    payment_status VARCHAR(20),
+    billing_date DATE
+);
+
+--------------------------------------------------
+-- Sample Billing Records
+--------------------------------------------------
+
+INSERT INTO billing_details VALUES
+(601, 501, 1500, 'Cash', 'Paid', '2026-02-10'),
+(602, 502, 2200, 'Card', 'Pending', '2026-02-11'),
+(603, 503, 1800, 'UPI', 'Paid', '2026-02-12');
+
+--------------------------------------------------
+-- View Billing Information
+--------------------------------------------------
+
+SELECT bill_id,
+       visit_id,
+       total_amount,
+       payment_mode,
+       payment_status,
+       billing_date
+FROM billing_details;

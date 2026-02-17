@@ -1,0 +1,38 @@
+/*
+Module: System Administration
+Purpose:
+• Manage system users
+• Control roles and access levels
+*/
+
+USE hospital_management;
+
+--------------------------------------------------
+-- System Users Table
+--------------------------------------------------
+
+CREATE TABLE system_users (
+    user_id INT PRIMARY KEY,
+    username VARCHAR(40),
+    user_role VARCHAR(30),
+    is_active BOOLEAN
+);
+
+--------------------------------------------------
+-- Sample System Users
+--------------------------------------------------
+
+INSERT INTO system_users VALUES
+(701, 'admin_keshav', 'Administrator', TRUE),
+(702, 'doctor_adarsh', 'Doctor', TRUE),
+(703, 'billing_exec', 'Billing', FALSE);
+
+--------------------------------------------------
+-- View Active Users
+--------------------------------------------------
+
+SELECT user_id,
+       username,
+       user_role
+FROM system_users
+WHERE is_active = TRUE;

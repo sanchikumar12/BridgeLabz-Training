@@ -1,0 +1,40 @@
+/*
+Module: Appointment Scheduling
+Purpose:
+• Book appointments between patients and doctors
+• Track appointment dates and status
+*/
+
+USE hospital_management;
+
+--------------------------------------------------
+-- Appointment Table
+--------------------------------------------------
+
+CREATE TABLE appointments (
+    appointment_id INT PRIMARY KEY,
+    patient_id INT,
+    doctor_id INT,
+    appointment_date DATE,
+    appointment_status VARCHAR(20)
+);
+
+--------------------------------------------------
+-- Sample Appointment Data
+--------------------------------------------------
+
+INSERT INTO appointments VALUES
+(401, 201, 301, '2026-02-10', 'Scheduled'),
+(402, 202, 302, '2026-02-11', 'Completed'),
+(403, 203, 303, '2026-02-12', 'Cancelled');
+
+--------------------------------------------------
+-- View Appointment Schedule
+--------------------------------------------------
+
+SELECT appointment_id,
+       patient_id,
+       doctor_id,
+       appointment_date,
+       appointment_status
+FROM appointments;

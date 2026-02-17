@@ -1,0 +1,42 @@
+/*
+Module: Patient Management
+Purpose:
+• Maintain patient master records
+• Store personal and contact details
+*/
+
+USE hospital_management;
+
+--------------------------------------------------
+-- Patient Master Table
+--------------------------------------------------
+
+CREATE TABLE patients_master (
+    patient_id INT PRIMARY KEY,
+    full_name VARCHAR(60),
+    age INT,
+    gender VARCHAR(10),
+    phone_number VARCHAR(15),
+    city VARCHAR(40)
+);
+
+--------------------------------------------------
+-- Sample Patient Records
+--------------------------------------------------
+
+INSERT INTO patients_master VALUES
+(201, 'Keshav Sharma', 24, 'Male', '9876543210', 'Indore'),
+(202, 'Adarsh Verma', 26, 'Male', '9123456780', 'Bhopal'),
+(203, 'Riya Singh', 23, 'Female', '9988776655', 'Delhi');
+
+--------------------------------------------------
+-- View Patient Details
+--------------------------------------------------
+
+SELECT patient_id,
+       full_name,
+       age,
+       gender,
+       phone_number,
+       city
+FROM patients_master;

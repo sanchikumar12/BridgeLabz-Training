@@ -1,0 +1,40 @@
+/*
+Module: Doctor Management
+Purpose:
+• Maintain doctor profiles
+• Store specialization and availability details
+*/
+
+USE hospital_management;
+
+--------------------------------------------------
+-- Doctor Master Table
+--------------------------------------------------
+
+CREATE TABLE doctors_master (
+    doctor_id INT PRIMARY KEY,
+    doctor_name VARCHAR(60),
+    specialization VARCHAR(50),
+    experience_years INT,
+    contact_no VARCHAR(15)
+);
+
+--------------------------------------------------
+-- Sample Doctor Records
+--------------------------------------------------
+
+INSERT INTO doctors_master VALUES
+(301, 'Dr. Keshav Mehta', 'Cardiology', 8, '9000011111'),
+(302, 'Dr. Adarsh Patel', 'Orthopedics', 5, '9000022222'),
+(303, 'Dr. Neha Jain', 'Dermatology', 6, '9000033333');
+
+--------------------------------------------------
+-- View Doctor Details
+--------------------------------------------------
+
+SELECT doctor_id,
+       doctor_name,
+       specialization,
+       experience_years,
+       contact_no
+FROM doctors_master;
