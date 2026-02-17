@@ -1,0 +1,79 @@
+/*
+Exercise 2: Transaction Management
+Implement a banking system with:
+• Transfer money between accounts (use transactions)
+• Check balance
+• Transaction history
+*/
+
+USE mysql_jdbc_practice;
+
+--------------------------------------------------
+-- Account Table
+--------------------------------------------------
+
+CREATE TABLE account (
+    account_id INT PRIMARY KEY,
+    name VARCHAR(50),
+    balance INT
+);
+
+CREATE TABLE transaction_history (
+    txn_id INT AUTO_INCREMENT PRIMARY KEY,
+    from_account INT,
+    to_account INT,
+    amount INT,
+    txn_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+INSERT INTO account VALUES
+(1, 'Keshav', 2000),
+(2, 'Adarsh', 5000);
+
+
+--------------------------------------------------
+-- 1. Transfer Money Between Accounts (Transaction)
+--------------------------------------------------
+
+START TRANSACTION;
+
+UPDATE account
+SET balance = balance - 2000
+WHERE account_id = 2;
+
+UPDATE account
+SET balance = balance + 2000
+WHERE account_id = 1;
+
+INSERT INTO transaction_history (from_account, to_account, amount)
+VALUES (2, 1, 2000);
+
+COMMIT;
+
+
+--------------------------------------------------
+-- 2. Check Balance
+--------------------------------------------------
+
+SELECT * FROM account;
+
+-- Expected Output
+-- +------------+--------+---------+
+-- | account_id | name   | balance |
+-- +------------+--------+---------+
+-- | 1          | Keshav | 4000    |
+-- | 2          | Adarsh | 3000    |
+-- +------------+--------+---------+
+
+
+--------------------------------------------------
+-- 3. Transaction History
+--------------------------------------------------
+
+SELECT * FROM transaction_history;
+
+-- +--------+--------------+------------+--------+---------------------+
+-- | txn_id | from_account | to_account | amount | txn_date            |
+-- +--------+--------------+------------+--------+---------------------+
+-- | 1      | 2            | 1          | 2000   | 2026-02-08 14:27:27 |
+-- +--------+--------------+------------+--------+---------------------+
