@@ -1,5 +1,23 @@
 # BridgeLabz-Training
 
+# 🚀 Refresher Training
+
+## 📅 Day 1 – Refresher Training
+*Date:* 31-Jul-2026
+
+### 🔹 Topics Covered
+- Java Refresher Training DMA setup
+
+### 💻 Programs/Assignments Completed
+- Initial codebase setup in `Day-1` folder
+- Configured project structure and build paths
+
+### 📈 Progress Updates
+- Created Refresher-Training branch
+- Pushed Day 1 code to remote repository
+
+---
+
 # 📅 Day 1 – Git & GitHub Setup
 
 *Date:* 16-Dec-2025
