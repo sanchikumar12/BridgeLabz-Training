@@ -1,3 +1,4 @@
+package Day_04_hackerrank;
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -10,7 +11,7 @@ import java.util.stream.*;
 import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
 
-class Result {
+class InsertionSort2Result {
 
     /*
      * Complete the 'insertionSort2' function below.
@@ -64,7 +65,7 @@ public class InsertionSort2 {
             .map(Integer::parseInt)
             .collect(toList());
 
-        Result.insertionSort2(n, arr);
+        InsertionSort2Result.insertionSort2(n, arr);
 
         bufferedReader.close();
     }

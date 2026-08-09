@@ -1,3 +1,4 @@
+package Day_04_hackerrank;
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -10,7 +11,7 @@ import java.util.stream.*;
 import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
 
-class Result {
+class BubbleSortResult {
 
     /*
      * Complete the 'insertionSort1' function below.
@@ -69,7 +70,7 @@ public class BubbleSort {
             .map(Integer::parseInt)
             .collect(toList());
 
-        Result.insertionSort1(n, arr);
+        BubbleSortResult.insertionSort1(n, arr);
 
         bufferedReader.close();
     }

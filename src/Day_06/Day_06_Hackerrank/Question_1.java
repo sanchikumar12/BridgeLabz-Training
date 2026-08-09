@@ -11,7 +11,7 @@ import java.util.stream.*;
 import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
 
-class Result {
+class Question_1Result {
 
     /*
      * Complete the 'icecreamParlor' function below.
@@ -62,7 +62,7 @@ public class Question_1 {
                     .map(Integer::parseInt)
                     .collect(toList());
 
-                List<Integer> result = Result.icecreamParlor(m, arr);
+                List<Integer> result = Question_1Result.icecreamParlor(m, arr);
 
                 bufferedWriter.write(
                     result.stream()

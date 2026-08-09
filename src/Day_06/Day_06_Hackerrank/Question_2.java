@@ -5,7 +5,7 @@ import java.util.stream.*;
 import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
 
-class Result {
+class Question_2Result {
 
     /*
      * Complete the 'missingNumbers' function below.
@@ -123,7 +123,7 @@ public class Question_2 {
             .collect(toList());
 
         List<Integer> result =
-            Result.missingNumbers(arr, brr);
+            Question_2Result.missingNumbers(arr, brr);
 
         bufferedWriter.write(
             result.stream()

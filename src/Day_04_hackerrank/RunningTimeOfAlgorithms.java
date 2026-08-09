@@ -1,3 +1,4 @@
+package Day_04_hackerrank;
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -10,7 +11,7 @@ import java.util.stream.*;
 import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
 
-class Result {
+class RunningTimeOfAlgorithmsResult {
 
     /*
      * Complete the 'runningTime' function below.
@@ -53,7 +54,7 @@ public class RunningTimeOfAlgorithms {
             .map(Integer::parseInt)
             .collect(toList());
 
-        int result = Result.runningTime(arr);
+        int result = RunningTimeOfAlgorithmsResult.runningTime(arr);
 
         bufferedWriter.write(String.valueOf(result));
         bufferedWriter.newLine();
