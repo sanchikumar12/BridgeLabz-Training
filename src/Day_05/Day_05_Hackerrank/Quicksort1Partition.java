@@ -1,6 +1,5 @@
 package Day_05.Day_05_Hackerrank;
 
-
 import java.io.*;
 import java.math.*;
 import java.security.*;
